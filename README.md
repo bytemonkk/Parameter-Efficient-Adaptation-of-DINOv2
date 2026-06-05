@@ -1,1 +1,1 @@
-# fine-tuned-model-for-segmentation
+# Parameter-Efficient-Adaptation-of-DINOv2
