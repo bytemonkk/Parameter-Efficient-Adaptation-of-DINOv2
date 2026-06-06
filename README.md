@@ -4,7 +4,7 @@
 Parameter-Efficient Adaptation of DINOv2 for Remote Sensing Semantic Segmentation using DINOv2, CNN Decoders, and Low-Rank Adaptation (LoRA).
 
 <p align="center">
-  <img src="assets/architecture.png" width="100%">
+  <img src="assets/LoRA_Arch.png" width="100%">
 </p>
 
 <h1 align="center">DINOv2-LoRA Segmentation</h1>
@@ -61,7 +61,7 @@ Classes include:
 ## Proposed Architecture
 
 <p align="center">
-  <img src="assets/architecture.png" width="100%">
+  <img src="assets/Architecture.png" width="100%">
 </p>
 
 The architecture consists of:
@@ -73,14 +73,6 @@ The architecture consists of:
 5. CNN Decoder
 6. Segmentation Head
 7. Pixel-wise Land-Cover Prediction
-
----
-
-## Workflow Pipeline
-
-<p align="center">
-  <img src="assets/workflow.png" width="100%">
-</p>
 
 ---
 
