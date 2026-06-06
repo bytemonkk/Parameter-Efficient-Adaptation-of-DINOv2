@@ -104,8 +104,7 @@ DINOv2-LoRA-Segmentation/
 ├── assets/
 │   ├── architecture.png
 │   └── workflow.png
-│
-├── notebooks/
+
 ├── src/
 │
 ├── train.py
@@ -114,7 +113,6 @@ DINOv2-LoRA-Segmentation/
 │
 ├── requirements.txt
 ├── README.md
-├── LICENSE
 └── .gitignore
 ```
 
