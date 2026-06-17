@@ -1,5 +1,5 @@
 # Parameter-Efficient-Adaptation-of-DINOv2
-# DINOv2-LoRA-Remote-Sensing
+# DINOv2-LoRA-Remote-Sensing-Segmentation
 
 Parameter-Efficient Adaptation of DINOv2 for Remote Sensing Semantic Segmentation using DINOv2, CNN Decoders, and Low-Rank Adaptation (LoRA).
 
